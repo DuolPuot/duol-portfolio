@@ -66,14 +66,20 @@ const Projects = () => {
                 </div>
 
                 <div className="flex gap-3 pt-2">
-                  <Button
-                    size="sm"
-                    variant="outline"
-                    className="flex-1 border-primary/50 text-primary hover:bg-primary hover:text-primary-foreground"
-                  >
-                    <ExternalLink className="w-4 h-4 mr-2" />
-                    Live Demo
-                  </Button>
+                                <a 
+                href="https://bolgatluakthoan.github.io/AMU-letter-management-system-frontend/" 
+                target="_blank" 
+                rel="noopener noreferrer"
+              >
+                <Button
+                  size="sm"
+                  variant="outline"
+                  className="flex-1 border-primary/50 text-primary hover:bg-primary hover:text-primary-foreground"
+                >
+                  <ExternalLink className="w-4 h-4 mr-2" />
+                  Live Demo
+                </Button>
+          </a>
                   <Button
                     size="sm"
                     variant="outline"
