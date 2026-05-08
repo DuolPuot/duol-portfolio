@@ -17,10 +17,10 @@ const Projects = () => {
       gradient: "from-secondary/20 to-secondary/5",
     },
     {
-      title: "Cybersecurity Dashboard",
-      description: "Real-time security monitoring and threat detection system with automated alerts and detailed reporting capabilities. PHP backend with responsive frontend.",
-      technologies: ["PHP", "JavaScript", "HTML & CSS", "MongoDB"],
-      gradient: "from-accent/20 to-accent/5",
+     title: "Letter Management System (LMS)",
+     description: "A document and letter management system designed for public institutions to manage, track, and archive official correspondence efficiently. Developed for Arba Minch University, one of the top eight universities in Ethiopia.",
+     technologies: ["React", "Tailwind CSS", "JavaScript", "Node.js", "MongoDB"],
+     gradient: "from-accent/20 to-accent/5",
     },
   ];
 
